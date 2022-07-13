@@ -1,4 +1,6 @@
 # Balanced-parentheis
+Leetcode - https://leetcode.com/problems/valid-parentheses/
+GFG practise- https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1#
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
