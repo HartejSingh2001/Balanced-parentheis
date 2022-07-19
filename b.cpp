@@ -28,3 +28,12 @@ public:
        return st.empty(); // this is very imp to write
     }//function end
 };
+
+/*
+working of st.empty() is as follows--
+        if(!st.empty())
+        {
+            return false;
+        }
+        return true;
+*/
