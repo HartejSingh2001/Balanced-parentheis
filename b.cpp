@@ -21,10 +21,10 @@ public:
                    continue;                                                        
                 }
                else
-               { return false;}
+               { return false;}// we can write return false statement without else block also and will work the same
                 
             }//else block end
         }// for loop end
-       return st.empty(); 
+       return st.empty(); // this is very imp to write
     }//function end
 };
